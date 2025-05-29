@@ -1,4 +1,4 @@
-# 🛒 Store Sales Forecasting with Machine Learning
+# 🛒 SalesSens: Store Sales Forecasting with Machine Learning
 
 This repository contains my solution to a time-series forecasting problem based on sales data from **Corporación Favorita**, a major Ecuadorian-based grocery retailer. The goal is to accurately predict unit sales of thousands of items across various stores using machine learning models.
 
